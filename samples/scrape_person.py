@@ -1,4 +1,4 @@
-import os,
+import os
 from linkedin_scraper import Person, actions
 from selenium import webdriver
 driver = webdriver.Chrome("./chromedriver")
